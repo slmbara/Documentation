@@ -1,0 +1,6 @@
+LINKS:
+Oracle 11g database: 
+http://www.oracle.com/technetwork/dat...
+
+Oracle SQL Developer:
+http://www.oracle.com/technetwork/dev...
